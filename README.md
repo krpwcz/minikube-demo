@@ -1,4 +1,4 @@
-# minikarp-demo
+# minikarp-demo ⛳
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
